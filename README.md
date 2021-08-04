@@ -52,4 +52,4 @@ module.exports = {
 - <a href="https://github.com/rayzdev">rayz</a>
 
 ## Support
-If you need any assistance, you can join our <a href="discord.gg/KtTPN7Ebx8">support</a> server.
+If you need any assistance, you can join our <a href="https://discord.gg/r454v4mbur">support</a> server.
