@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.1.0",
+  "description": "General purpose discord bot",
+  "main": "index.js",
+  "repository": "https://github.com/Iris-Development/Bot/",
+  "author": "Iris-Development",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "canvacord": "^5.2.1",
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "give-me-a-joke": "^0.4.0",
+    "imageapi.js": "^1.7.0",
+    "insult": "^0.0.3"
+  }
+}
