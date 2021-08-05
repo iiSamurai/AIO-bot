@@ -52,7 +52,7 @@ module.exports = {
             message.channel.send(new Discord.MessageEmbed()
             .setDescription(`${toBan} has been banned`)
             .setColor("#ff919b")
-            .setFooter(`banned by ${message.author.username}`, message.author.displayAvatarURL()))
+            .setFooter(message.author.username, message.author.displayAvatarURL()))
             logchannel.send(new Discord.MessageEmbed()
             .setTitle(`${message.mentions.users.first().username} was banned`)
             .setDescription(reason)
