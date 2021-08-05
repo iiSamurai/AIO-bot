@@ -46,6 +46,8 @@ module.exports = {
     }
 }
 ```
+## Invite 
+- [Invite the bot to your server](https://discord.com/api/oauth2/authorize?client_id=871202316542414848&permissions=8&scope=bot)
 
 ## Credits 
 - <a href="https://github.com/synesta">synesta</a>
