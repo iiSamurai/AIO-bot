@@ -14,7 +14,7 @@ module.exports = {
         **__# FUN__**
         - autism / coinflip / dadjoke / gay / iq / pp / roll / swag / taunt
 
-        **__# IMAGES__**__
+        **__# IMAGES__**
         - cat / dog / sus / meme
     
         **__# MAIN__**
