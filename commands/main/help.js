@@ -24,7 +24,7 @@ module.exports = {
         - ban / kick / mute / nuke / purge / unmute
     
         **__# UTIL__**
-        - addrole / avatar / randomcolor / say / serverinfo / setnick / whois`)
+        - addrole / avatar / gitsearch / randomcolor / say / serverinfo / setnick / whois`)
         .setColor("BLURPLE")
         .setFooter(message.author.username, message.author.displayAvatarURL()))
     }
