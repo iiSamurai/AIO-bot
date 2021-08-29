@@ -46,6 +46,25 @@ module.exports = {
     }
 }
 ```
+
+# Commands 
+```
+        FUN
+        - autism / coinflip / dadjoke / gay / iq / pp / roll / swag / taunt
+
+        IMAGES
+        - cat / dog / sus / meme
+    
+        MAIN
+        - help / s-activity
+
+        MOD
+        - ban / kick / mute / nuke / purge / unmute
+    
+        UTIL
+        - addrole / avatar / gitsearch / randomcolor / say / serverinfo / setnick / whois
+```
+
 ## Invite 
 - [Invite the bot to your server](https://discord.com/api/oauth2/authorize?client_id=871202316542414848&permissions=8&scope=bot)
 
